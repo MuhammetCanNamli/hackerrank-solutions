@@ -1,2 +1,2 @@
-# hackerrank-sql
-Solutions to SQL exercises on the HackerRank platform
+# HackerRank SQL Query Solutions
+Solutions to SQL query exercises on the HackerRank platform
