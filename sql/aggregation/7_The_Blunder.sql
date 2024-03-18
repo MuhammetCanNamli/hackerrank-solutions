@@ -56,7 +56,7 @@ The resulting error between the two calculations is 2159.00 - 98.00 = 2061.00. S
 
 */
 
--- Working Platform: MySQL, MSSQL
+-- Working Platforms: MySQL, MSSQL
 
 SELECT CEILING(AVG(CAST(Salary AS DECIMAL(10,2))) - AVG(CAST(REPLACE(Salary, '0', '') AS DECIMAL(10,2)))) AS Error_Amount
 FROM EMPLOYEES;
