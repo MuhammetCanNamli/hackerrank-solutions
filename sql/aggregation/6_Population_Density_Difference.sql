@@ -15,7 +15,7 @@ Query the difference between the maximum and minimum populations in CITY.
 
 */
 
--- Working Platform: MySQL, Oracle, MSSQL
+-- Working Platforms: DB2, MySQL, Oracle, MSSQL
 
 SELECT MAX(Population) - MIN(Population) AS Population_Difference
 FROM CITY;
