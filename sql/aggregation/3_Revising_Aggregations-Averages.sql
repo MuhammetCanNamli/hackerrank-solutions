@@ -15,7 +15,7 @@ Query the average population of all cities in CITY where District is California.
 
 */
 
--- Working Platform: MySQL, Oracle, MSSQL
+-- Working Platforms: DB2, MySQL, Oracle, MSSQL
 
 SELECT AVG(POPULATION) AS Average_Population
 FROM CITY
