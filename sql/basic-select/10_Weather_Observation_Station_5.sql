@@ -6,13 +6,13 @@ The STATION table is described as follows:
 	    STATION
  ______________ ______________
 | Field	       | Type	      |
--------------------------------
+ -------------- --------------
 | ID	       | NUMBER	      |
 | CITY	       | VARCHAR2(21) |
 | STATE	       | VARCHAR2(2)  |
 | LAT_N        | NUMBER	      |
 | LONG_W       | NUMBER	      |
--------------------------------
+ -------------- --------------
 
 Where LAT_N is the northern latitude and LONG_W is the western longitude.
 
@@ -33,6 +33,8 @@ Note
 You can write two separate queries to get the desired output. It need not be a single query.
 
 */
+
+-- Working Platforms: DB2, MySQL
 
 SELECT CITY, LENGTH(CITY)
 FROM STATION
