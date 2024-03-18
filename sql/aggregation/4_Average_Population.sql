@@ -15,7 +15,7 @@ Query the average population for all cities in CITY, rounded down to the nearest
 
 */
 
--- Working Platform: MySQL, Oracle
+-- Working Platforms: DB2, MySQL, Oracle
 
 SELECT ROUND(AVG(Population)) AS Average_Population
 FROM CITY;
