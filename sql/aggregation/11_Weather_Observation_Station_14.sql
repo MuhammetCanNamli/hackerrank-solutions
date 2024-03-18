@@ -19,7 +19,7 @@ Where LAT_N is the northern latitude and LONG_W is the western longitude.
 
 */
 
--- Working Platforms: MySQL, Oracle, MSSQL
+-- Working Platforms: DB2, MySQL, Oracle, MSSQL
 
 SELECT CAST(MAX(LAT_N) AS DECIMAL(18,4))
 FROM STATION
