@@ -7,20 +7,20 @@ The STATION table is described as follows:
 	    STATION
  ______________ ______________
 | Field	       | Type	      |
--------------------------------
+ -------------- --------------
 | ID	       | NUMBER	      |
 | CITY	       | VARCHAR2(21) |
 | STATE	       | VARCHAR2(2)  |
 | LAT_N        | NUMBER	      |
 | LONG_W       | NUMBER	      |
--------------------------------
+ -------------- --------------
 
 Where LAT_N is the northern latitude and LONG_W is the western longitude.
 
 
 */
 
--- Working Platform: MySQL, Oracle, MSSQL
+-- Working Platforms: DB2, MySQL, Oracle, MSSQL
 
 SELECT CAST(SUM(LAT_N) AS DECIMAL(18,4))
 FROM STATION
