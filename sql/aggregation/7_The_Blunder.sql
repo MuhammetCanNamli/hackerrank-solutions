@@ -8,12 +8,13 @@ Input Format
 The EMPLOYEES table is described as follows:
 
  ______________ ______________
-| Column       | Type	      |
--------------------------------
-| ID	       | Integer      |
-| Name	       | String       |
+| Columns      | Type         |
+ -------------- --------------
+| ID           | Integer      |
+| Name         | String       |
 | Salary       | Integer      |
--------------------------------
+ -------------- --------------
+
 
 Note: Salary is per month.
 
@@ -23,14 +24,15 @@ Constraints
 
 Sample Input
 
- ____ _________________ ______________
-| ID | Name	       | Salary	      |
----------------------------------------
-| 1  | Kristeen	       | 1420	      |
-| 2  | Ashley	       | 2006         |
-| 3  | Julia           | 2210         |
-| 4  | Maria           | 3000         |
----------------------------------------
+ ____ _____________ ____________
+| ID | Name        | Salary     |
+ ---- ------------- ------------
+| 1  | Kristeen    | 1420       |
+| 2  | Ashley      | 2006       |
+| 3  | Julia       | 2210       |
+| 4  | Maria       | 3000       |
+ ---- ------------- ------------
+
 
 Sample Output
 
@@ -41,14 +43,15 @@ Explanation
 
 The table below shows the salaries without zeros as they were entered by Samantha:
 
- ____ _________________ ______________
-| ID | Name	       | Salary	      |
----------------------------------------
-| 1  | Kristeen	       | 142	      |
-| 2  | Ashley	       | 26           |
-| 3  | Julia           | 221          |
-| 4  | Maria           | 3            |
----------------------------------------
+ ____ _____________ ____________
+| ID | Name        | Salary     |
+ ---- ------------- ------------
+| 1  | Kristeen    | 142        |
+| 2  | Ashley      | 26         |
+| 3  | Julia       | 221        |
+| 4  | Maria       | 3          |
+ ---- ------------- ------------
+
 
 Samantha computes an average salary of 98.00. The actual average salary is 2159.00.
 
