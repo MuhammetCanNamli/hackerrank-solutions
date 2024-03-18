@@ -62,7 +62,7 @@ The maximum earnings value is 69952. The only employee with earnings = 69952 is 
 
 */
 
--- Working Platform: MySQL, Oracle, MSSQL
+-- Working Platforms: DB2, MySQL, Oracle, MSSQL
 
 SELECT MAX(SALARY*MONTHS), COUNT(*)
 FROM EMPLOYEE
