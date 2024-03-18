@@ -33,7 +33,7 @@ where lat is the sum of all values in LAT_N and lon is the sum of all values in 
 
 */
 
--- Working Platform: MySQL, Oracle
+-- Working Platforms: MySQL, Oracle
 
 SELECT ROUND(SUM(LAT_N), 2), ROUND(SUM(LONG_W), 2)
 FROM STATION;
