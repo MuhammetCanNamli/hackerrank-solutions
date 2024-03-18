@@ -15,7 +15,7 @@ Query a count of the number of cities in CITY having a Population larger than 10
 
 */
 
--- Working Platform: MySQL, Oracle, MSSQL
+-- Working Platforms: MySQL, Oracle, MSSQL
 
 SELECT COUNT(*)
 FROM CITY
