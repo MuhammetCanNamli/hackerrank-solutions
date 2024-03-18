@@ -15,7 +15,7 @@ Query the sum of the populations for all Japanese cities in CITY. The COUNTRYCOD
 
 */
 
--- Working Platform: MySQL, Oracle, MSSQL
+-- Working Platforms: DB2, MySQL, Oracle, MSSQL
 
 SELECT SUM(POPULATION)
 FROM CITY
