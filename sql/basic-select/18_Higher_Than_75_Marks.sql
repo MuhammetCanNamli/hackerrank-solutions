@@ -5,11 +5,11 @@ Input Format
 
  ______________ ______________
 | Field	       | Type	      |
--------------------------------
+ -------------- --------------
 | ID	       | Integer      |
 | NAME	       | String       |
 | MARKS        | Integer      |
--------------------------------
+ -------------- --------------
 
 
 The STUDENTS table is described as follows:  The Name column only contains uppercase (A-Z) and lowercase (a-z) letters.
@@ -18,15 +18,14 @@ The STUDENTS table is described as follows:  The Name column only contains upper
 Sample Input
 
 	      CITY
---------------------
  ____ ______________ ______________
 | ID | Name	    | Marks	   |
-------------------------------------
+ ---- -------------- --------------
 | 1  | Ashley	    | 81	   |
 | 2  | Samantha	    | 75 	   |
 | 4  | Julia  	    | 76	   |
 | 3  | Belvet       | 84	   |
-------------------------------------
+ ---- -------------- --------------
 
 
 Sample Output
@@ -40,6 +39,8 @@ Explanation
 
 Only Ashley, Julia, and Belvet have Marks > 75. If you look at the last three characters of each of their names, there are no duplicates and 'ley' < 'lia' < 'vet'.
 */
+
+-- Working Platforms: DB2, MySQL, MSSQL
 
 SELECT Name 
 FROM STUDENTS
