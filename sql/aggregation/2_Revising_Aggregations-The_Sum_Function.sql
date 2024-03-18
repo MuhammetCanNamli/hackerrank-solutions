@@ -15,7 +15,7 @@ Query the total population of all cities in CITY where District is California.
 
 */
 
--- Working Platform: MySQL, Oracle, MSSQL
+-- Working Platforms: MySQL, Oracle, MSSQL
 
 SELECT SUM(Population) AS Total_Population
 FROM CITY
