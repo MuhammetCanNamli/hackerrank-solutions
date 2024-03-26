@@ -17,7 +17,7 @@ Solutions to Python exercises on the HackerRank platform
 
 <a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction" target="_blank">Introduction</a><br/>
 <a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic-data-types" target="_blank">Basic Data Types</a><br/>
-<a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-strings" target="_blank">Strings</a> (In Progress)<br/>
+<a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-strings" target="_blank">Strings</a><br/>
 <a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets" target="_blank">Sets</a> (In Progress)<br/>
 <a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math" target="_blank">Math</a> (In Progress)<br/>
 <a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-itertools" target="_blank">Itertools</a> (In Progress)<br/>
