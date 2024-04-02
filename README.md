@@ -20,7 +20,7 @@ Solutions to Python exercises on the HackerRank platform
 <a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-strings" target="_blank">Strings</a><br/>
 <a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-sets" target="_blank">Sets</a><br/>
 <a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-math" target="_blank">Math</a><br/>
-<a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-itertools" target="_blank">Itertools</a> (In Progress)<br/>
+<a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-itertools" target="_blank">Itertools</a><br/>
 <a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-collections" target="_blank">Collections</a> (In Progress)<br/>
 <a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-date-time" target="_blank">Date and Time</a> (In Progress)<br/>
 <a href="https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=errors-exceptions" target="_blank">Errors and Exceptions</a> (In Progress)<br/>
